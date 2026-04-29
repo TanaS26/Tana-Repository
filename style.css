@@ -1,0 +1,43 @@
+#homePage {
+	background-image: url("DustyNavy.png");
+}
+#homePage h1{
+	color:#DDC9B4;
+}
+#homePage a{
+	color:#385F71;
+	text-decoration: none;
+}
+p{
+	color:#DDC9B4;
+}
+#fastFood h1{
+	color:#385F71;
+}
+#fastFood a{
+	color:#385F71;
+	text-decoration: none;
+}
+#fastFood {
+	background-color:#DDC9B4;
+}
+.topnav {
+	background-color:#DDC9B4;
+	overflow: hidden;
+}
+.topnav a{
+	float: left;
+	color:#385F71;
+	test-align:center;
+	padding:14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+}
+.topnav a:hover {
+	background-color:#DDC9B4;
+	color:#385F71;
+}
+.topnav a.active {
+	background-color:#DDC9B4;
+	color:385F71;
+}
