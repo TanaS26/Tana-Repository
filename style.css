@@ -1,14 +1,19 @@
 #homePage {
-	background-image: url("DustyNavy.png");
+	background-color:#385F71;
 }
 #homePage h1{
 	color:white;
 }
+
+#homePage p{
+	color:white;
+}
+
 #homePage a{
 	color:#385F71;
 	text-decoration: none;
 }
-#fastFood th{
+#fastFood p{
 	color:white;
 }
 #fastFood h1{
@@ -22,17 +27,17 @@
 	background-color:#385F71;
 }
 .topnav {
+	display: flex;
+	padding: 10px 0;
 	background-color:white;
-	overflow: hidden;
 	justify-content:center;
 }
 .topnav a{
-	float: left;
 	color:black;
-	test-align:center;
-	padding:14px 16px;
+	padding: 14px 16px;
 	text-decoration:none;
 	font-size: 17px;
+	margin: 0 15px;
 }
 .topnav a:hover {
 	background-color:#DDC9B4;
@@ -72,3 +77,34 @@
 	color:white;
 	text-decoration:none;
 }
+
+#dessertPage p{
+	color:white;
+}
+
+#drinkPage h1{
+	color:white;
+}
+
+#drinkPage {
+	background-color:#385F71;
+}
+
+#drinkPage a{
+	color:white;
+	text-decoration:none;
+}
+
+#takeoutPage {
+	background-color:#385F71;
+}
+
+#takeoutPage h1{
+	color:white;
+}
+
+#takoutPage a{
+	color:white;
+	text-decoration:none;
+}
+
