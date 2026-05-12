@@ -103,8 +103,11 @@
 	color:white;
 }
 
-#takoutPage a{
+#takeoutPage a{
 	color:white;
 	text-decoration:none;
 }
 
+p {
+	color: white;
+}
