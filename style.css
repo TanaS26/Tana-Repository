@@ -57,8 +57,9 @@
 	text-decoration:none;
 }
 
-#sitPage p{
+#sitPage p {
 	color:white;
+	text-align: center;
 }
 
 #sitPage {
